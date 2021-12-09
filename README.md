@@ -1,7 +1,11 @@
 
 # React-Firebase CRUD Application
 
-ToDo Applications are best to start building while learning any framework as it cover basic CRUD operations and form handling as well.
+ToDo Applications are best to start learning any framework as it cover basic CRUD operations and form handling as well.
+## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/yashkumat/React-Firebase-todolist/main/Screenshot%202021-12-09%20at%2015.49.09.png)
+
 
 ## Tech Stack
 
@@ -10,10 +14,21 @@ ToDo Applications are best to start building while learning any framework as it 
 **Server:** Firebase
 
 
-## Screenshots
+## Features
 
-![App Screenshot](https://raw.githubusercontent.com/yashkumat/React-Firebase-todolist/main/Screenshot%202021-12-09%20at%2015.49.09.png)
-*Screenshot of our Application*
+- Component Based (React)
+- Realtime (Firebase)
+- Reponsive (Bootstrap)
+
+
+## File Structure
+
+- Form component - Input form and add document logic
+
+- CardContainer component - Read, update, delete document logic
+
+- App component - Layout (Parent component).
+
 
 ## Lessons Learned
 
@@ -110,13 +125,6 @@ const deleteTask = async (id) => {
     await deleteDoc(task)   // Delete doc
 }
 ```
-## Features
-
-- Component Based (React)
-- Realtime (Firebase)
-- Reponsive (Bootstrap)
-
-
 ## Feedback
 
 If you have any feedback, please reach out to us at ykumat@gmail.com
