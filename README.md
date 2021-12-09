@@ -1,7 +1,8 @@
 
 # React-Firebase CRUD Application
 
-ToDo Applications are best to start learning any framework as it cover basic CRUD operations and form handling as well.
+ToDo Applications are best to start building while learning any framework as it cover basic CRUD operations and form handling as well.
+
 ## Tech Stack
 
 **Client:** React, Bootstrap
@@ -12,7 +13,7 @@ ToDo Applications are best to start learning any framework as it cover basic CRU
 ## Screenshots
 
 ![App Screenshot](https://raw.githubusercontent.com/yashkumat/React-Firebase-todolist/main/Screenshot%202021-12-09%20at%2015.49.09.png)
-
+*Screenshot of our Application*
 
 ## Lessons Learned
 
