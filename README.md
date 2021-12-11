@@ -85,7 +85,10 @@ export const db = getFirestore(app);
 *Screenshot of Firestore document collection*
 
 - Collection refrence
+
+```javascript
 const collectionRef = collection(db, "collection_name")
+```
 
 - Create
 
