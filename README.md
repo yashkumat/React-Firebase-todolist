@@ -84,6 +84,9 @@ export const db = getFirestore(app);
 ![Firestore](https://raw.githubusercontent.com/yashkumat/React-Firebase-todolist/main/Screenshot%202021-12-09%20at%2015.47.51.png)
 *Screenshot of Firestore document collection*
 
+- Collection refrence
+const collectionRef = collection(db, "collection_name")
+
 - Create
 
 ```javascript
